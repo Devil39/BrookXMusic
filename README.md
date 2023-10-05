@@ -23,13 +23,13 @@
 - `/end` - stop music play
 
 > Deploy To Heroku</h4>
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/SDGroupMusicPlayer)
+koi
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Devil39/SDGroupMusicPlayer)
 
 Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrogram string session `not working`
 
 ### Credits
 
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
+- [Laky](https://github.com/Devil39) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
 - [SDBOTs](https://t.me/SDBOTs_Inifinity)
